@@ -1,28 +1,17 @@
 {
-  "data": [
-    {
-      "name": "John Doe",
-      "age": 25,
-      "gender": "male",
-      "score": 80
-    },
-    {
-      "name": "Jane Doe",
-      "age": 28,
-      "gender": "female",
-      "score": 90
-    },
-    {
-      "name": "Bob Smith",
-      "age": 30,
-      "gender": "male",
-      "score": 75
-    },
-    {
-      "name": "Alice White",
-      "age": 24,
-      "gender": "female",
-      "score": 85
-    }
-  ]
+  "field1": {
+    "name": "企业 A",
+    "industry": "IT",
+    "employees": 100
+  },
+  "field2": {
+    "name": "企业 B",
+    "industry": "制造业",
+    "employees": 200
+  },
+  "field3": {
+    "name": "企业 C",
+    "industry": "金融",
+    "employees": 50
+  }
 }
